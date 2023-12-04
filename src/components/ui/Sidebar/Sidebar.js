@@ -1,4 +1,4 @@
-import { Avatar, Box, Card, CardActionArea, CardContent, CardMedia, Grid, Typography } from "@mui/material";
+import {Box, Card, CardActionArea, CardContent, CardMedia, Grid, Typography } from "@mui/material";
 import Image from "next/image";
 import sideImg from "@/assets/sideImg.png"
 import finish from '@/assets/finish.png'
